@@ -1,2 +1,1 @@
-# CasinoGame
 Java-CasinoGame
